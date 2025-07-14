@@ -4,6 +4,14 @@ A simple HTML and CSS-based interface to display web scraping results in a clean
 # 🕷️ Web Scraping
 This project is a simple and clean frontend interface built with HTML and CSS to display the results of web scraping in an organized and visually appealing manner. While the actual data scraping is performed separately (e.g., using Python or any backend tool), this repository focuses solely on presenting that data through a static web page.
 
+# Screenshots
+
+<img width="1920" height="1008" alt="Screenshot 2025-07-14 220934" src="https://github.com/user-attachments/assets/b5aa21bc-4c6f-4c53-b2ce-8017c9e876f6" />
+
+<img width="1920" height="1008" alt="Screenshot 2025-07-14 220948" src="https://github.com/user-attachments/assets/8973ab11-2a5f-4454-a467-bd09d912b1b4" />
+
+
+
 # 📌 Features
 Pure HTML & CSS interface
 
